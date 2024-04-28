@@ -1,0 +1,20 @@
+{
+    "name": "asus/mvc",
+    "autoload": {
+        "psr-4": {
+            "Asus\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alongkornubu",
+            "email": "alongkorn.ch.62@ubu.ac.th"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
